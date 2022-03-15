@@ -1,6 +1,4 @@
-# cryoEM-object-detection
-
-# Plankton Images Classification
+# CryoEM Object Detection
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scivision-gallery/cryoEM-object-detection.git/main?labpath=CryoEM%20Example%20-%20Synthetic%20and%20EMPIAR.ipynb)
 
