@@ -5,7 +5,7 @@ sources:
         args:
             datashape: [500, 500]
             image_count: 10
-            ctf_defocus: 5e3
+            ctf_defocus: 5000
             ctf_box_size: 512
             # seed: 1234
 
