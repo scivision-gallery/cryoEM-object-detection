@@ -1,0 +1,16 @@
+sources:
+    synthetic_soup:
+        description: Generate numpy array of synthetic cryoEM images
+        driver: synthetic_alphabetsoup
+        args:
+            datashape: [500, 500]
+            image_count: 10
+            ctf_defocus: 5e3
+            ctf_box_size: 512
+            # seed: 1234
+
+    one_empiar_dataset:
+        driver: empiar
+        args:
+            empiar_index: 10185
+            
