@@ -3,7 +3,7 @@ sources:
         description: Generate numpy array of synthetic cryoEM images
         driver: synthetic_alphabetsoup
         args:
-            datashape: [500, 500]
+            datashape: [512, 512]
             image_count: 10
             ctf_defocus: 5000
             ctf_box_size: 512
