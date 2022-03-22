@@ -40,7 +40,7 @@ To run the notebook on your local machine:
 
 * Open your terminal
 * Check your conda installation with `conda --version`. If you don't have conda, install it by following [these instructions](https://docs.conda.io/en/latest/miniconda.html)
-* Clone this repository `https://github.com/scivision-gallery/cryoEM-object-detection.git` 
+* Clone this repository as `git clone https://github.com/scivision-gallery/cryoEM-object-detection.git` 
 * Change directory to the cloned repository, `cd cryoEM-object-detection`
 * Install the dependencies, `conda env create -f environment.yml`
 * Activate the installed environment, `conda activate cryoEM-scivision-py39`
