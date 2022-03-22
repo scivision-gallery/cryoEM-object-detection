@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="hhttps://github.com/scivision-gallery/cryoEM-object-detection/blob/readme-fix/figs/cryoem_detection_example.png?raw=true" 
+  <img src="https://github.com/scivision-gallery/cryoEM-object-detection/blob/readme-fix/figs/cryoem_detection_example.png?raw=true" 
         alt="Object detection in a synthetic dataset with ODIN" width="60%" align="center">
 </p>
 
