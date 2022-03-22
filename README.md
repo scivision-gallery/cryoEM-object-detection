@@ -16,7 +16,7 @@
 
 <p align="center">
     <em>
-    Detection of objects in a synthetic image with ODIN. Bounding boxes: green - ground truth, maroon - prediction. 
+    Detection of objects in a synthetic image with ODIN. Bounding boxes: purple - ground truth, yellow - prediction.
     </em>
 </p>
 
