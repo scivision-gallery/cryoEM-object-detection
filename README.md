@@ -39,7 +39,7 @@ In this notebook, we use scivision to load memory-friendly synthetic data (Alpha
 To run the notebook on your local machine:
 
 * Open your terminal
-* Check your conda install with `conda --version`. If you don't have conda, install it by following [these instructions](https://docs.conda.io/en/latest/miniconda.html)
+* Check your conda installation with `conda --version`. If you don't have conda, install it by following [these instructions](https://docs.conda.io/en/latest/miniconda.html)
 * Clone this repository `https://github.com/scivision-gallery/cryoEM-object-detection.git` 
 * Change directory to the cloned repository, `cd cryoEM-object-detection`
 * Install the dependencies, `conda env create -f environment.yml`
