@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/1899856/159468646-8bb13932-d593-4dc9-affe-927b023d9c55.png" 
-        alt="Classification of plant images using MapReader" width="60%" align="center">
+  <img src="hhttps://github.com/scivision-gallery/cryoEM-object-detection/blob/readme-fix/figs/cryoem_detection_example.png?raw=true" 
+        alt="Object detection in a synthetic dataset with ODIN" width="60%" align="center">
 </p>
 
 <p align="center">
@@ -24,6 +24,8 @@
 ## Abstract
 
 Electron Microscopy aims to image particles (e.g., proteins, molecules) on a near atomic resolution. However, with great resolution comes low signal-to-noise ratio. As such, computer vision models need to be trained on noisy datasets in order to detect objects.
+
+![CryoEM pipeline from raw image (left, individual particle highlighted in green) to the molecular structure (right)](https://github.com/scivision-gallery/cryoEM-object-detection/blob/readme-fix/figs/cryoem_objective.png?raw=true)
 
 
 The structure of the objects being imaged is calculated by averaging hundreds if not thousands of frames of said object in different orientations, rotations and positions. The dataset generated is, consequently, large - usually, the pre-processed images (or with some degree of processing like motion correction) are uploaded onto an online database called EMPIAR.
