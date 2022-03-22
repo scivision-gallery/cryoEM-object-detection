@@ -9,7 +9,6 @@ dependencies:
   - aiosignal=1.2.0
   - aom=3.3.0
   - appdirs=1.4.4
-  - appnope=0.1.2
   - argon2-cffi=21.3.0
   - argon2-cffi-bindings=21.2.0
   - asciitree=0.3.3
@@ -121,8 +120,6 @@ dependencies:
   - libedit=3.1.20191231
   - libev=4.33
   - libffi=3.4.2
-  - libgfortran=5.0.0
-  - libgfortran5=9.3.0
   - libglib=2.70.2
   - libiconv=1.16
   - liblapack=3.9.0
