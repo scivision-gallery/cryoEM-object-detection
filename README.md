@@ -34,23 +34,21 @@ In this notebook, we use scivision to load memory-friendly synthetic data (Alpha
 
 ## How to run
 
-The notebook is designed to be launched from Binder.
-* Click the **Launch Binder** button at the top level of the repository
+* Open the notebook in an interactive session in your browser with Binder: [![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/scivision-gallery/cryoEM-object-detection.git/main?labpath=CryoEM%20Example%20-%20Synthetic%20and%20EMPIAR.ipynb)
 
-You may also download the notebook from GitHub to run it locally:
+To run the notebook on your local machine:
+
 * Open your terminal
-* Check your conda install with `conda --version`. If you don't have conda, install it by following these instructions (see [here](https://docs.conda.io/en/latest/miniconda.html))
-* Clone the repository, `https://github.com/scivision-gallery/cryoEM-object-detection.git` 
-* Move into the cloned repository, `cd cryoEM-object-detection`
+* Check your conda install with `conda --version`. If you don't have conda, install it by following [these instructions](https://docs.conda.io/en/latest/miniconda.html)
+* Clone this repository `https://github.com/scivision-gallery/cryoEM-object-detection.git` 
+* Change directory to the cloned repository, `cd cryoEM-object-detection`
 * Install the dependencies, `conda env create -f environment.yml`
 * Activate the installed environment, `conda activate cryoEM-scivision-py39`
-* Launch the jupyter interface of your preference, notebook, `jupyter notebook` or lab `jupyter lab`
+* Launch the jupyter interface of your preference by running either `jupyter notebook` or `jupyter lab`
 
 
-## Where are the datasets and model repos?
+## The models and data sources used in this notebook
 
-For **synthetic AlphabetSoup dataset**, refer to: https://github.com/alan-turing-institute/intake-alphabetsoup
-
-For **EMPIAR reader**, refer to: https://github.com/ots22/empiarreader
-
-For **ODIN model**, refer to: https://github.com/alan-turing-institute/odin
+- [**AlphabetSoup - synthetic cryoEM data source**](https://github.com/alan-turing-institute/intake-alphabetsoup)
+- [**EMPIAR reader**](https://github.com/ots22/empiarreader)
+- [**The ODIN model**](https://github.com/alan-turing-institute/odin)
