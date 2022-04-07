@@ -9,7 +9,7 @@ sources:
             ctf_box_size: 512
             font_face: "Verdana"
             font_size: 20
-            # seed: 1234
+            random_seed: 1234
 
     one_empiar_dataset:
         driver: empiar
