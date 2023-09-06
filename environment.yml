@@ -279,7 +279,7 @@ dependencies:
     - starfile==0.4.11
     - threadpoolctl==3.1.0
     - torch==1.11.0
-    - git+https://github.com/alan-turing-institute/scivision
-    - git+https://github.com/quantumjot/vne
-    - git+https://github.com/ots22/empiarreader
-    - git+https://github.com/alan-turing-institute/intake-alphabetsoup
+    - scivision==0.7.0
+    - git+https://github.com/quantumjot/vne@e5bdf255fd195d2230867cb4cd85ece36110b434
+    - git+https://github.com/alan-turing-institute/empiarreader@bb7659960ef9a2960e983656b1bdf59dcd7fbe47
+    - git+https://github.com/alan-turing-institute/intake-alphabetsoup@68108d1a5e7d8acb8352c52c5b1df72c83971648
